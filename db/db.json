@@ -1,0 +1,153 @@
+{
+    "ingredientes": {
+        "guarnicoes": [
+            {
+                "id": 1,
+                "tipo": "Arroz"
+            },
+            {
+                "id": 2,
+                "tipo": "Arroz integral"
+            },
+            {
+                "id": 3,
+                "tipo": "Arroz branco"
+            },
+            {
+                "id": 4,
+                "tipo": "Feijão"
+            },
+            {
+                "id": 5,
+                "tipo": "Feijão Preto"
+            },
+            {
+                "id": 6,
+                "tipo": "Feijão de Corda"
+            },
+            {
+                "id": 7,
+                "tipo": "Macarrão"
+            },
+            {
+                "id": 8,
+                "tipo": "Cuscuz"
+            },
+            {
+                "id": 9,
+                "tipo": "Macacheira"
+            },
+            {
+                "id": 10,
+                "tipo": "Purê"
+            },
+            {
+                "id": 11,
+                "tipo": "Batata Frita"
+            },
+            {
+                "id": 12,
+                "tipo": "Salada"
+            }
+        ],
+        "carnes": [
+            {
+                "id": 1,
+                "tipo": "Maminha"
+            },
+            {
+                "id": 2,
+                "tipo": "Alcatra"
+            },
+            {
+                "id": 3,
+                "tipo": "Picanha"
+            },
+            {
+                "id": 4,
+                "tipo": "Carne de Sol"
+            },
+            {
+                "id": 5,
+                "tipo": "Filé de Frango"
+            },
+            {
+                "id": 6,
+                "tipo": "Filé Suino"
+            },
+            {
+                "id": 7,
+                "tipo": "Filé Mignon"
+            },
+            {
+                "id": 8,
+                "tipo": "Frango Empanado"
+            },
+            {
+                "id": 9,
+                "tipo": "Parmegiana de Frango"
+            },
+            {
+                "id": 10,
+                "tipo": "Parmegiana de Carne"
+            }
+        ],
+        "bebidas": [
+            {
+                "id": 1,
+                "tipo": "Coca-cola 350ml"
+            },
+            {
+                "id": 2,
+                "tipo": "Coca-cola 500ml"
+            },
+            {
+                "id": 3,
+                "tipo": "Coca-cola 1000ml"
+            },
+            {
+                "id": 4,
+                "tipo": "Coca-cola 2000ml"
+            },
+            {
+                "id": 5,
+                "tipo": "Suco de Laranja"
+            },
+            {
+                "id": 6,
+                "tipo": "Suco de Caju"
+            },
+            {
+                "id": 7,
+                "tipo": "Suco de Manga"
+            },
+            {
+                "id": 8,
+                "tipo": "Suco de Maracuja"
+            },
+            {
+                "id": 9,
+                "tipo": "Água de Coco"
+            },
+            {
+                "id": 10,
+                "tipo": "Cajuína"
+            }
+        ]
+    },
+    "status": [
+        {
+            "id": 1,
+            "tipo": "Solicitado"
+        },
+        {
+            "id": 2,
+            "tipo": "Em produção"
+        },
+        {
+            "id": 3,
+            "tipo": "Finalizado"
+        }
+    ],
+    "almoços": []
+}
